@@ -2,4 +2,4 @@
 
 This is a web app that lets you enter words into a javascript form and turn them into wonderful music sounds. In the magical future, it will also allow you to save them and to log in using oauth. Learning about devise and rails and omniauth and its google apps plugin was the whole point of this shenanigan, originally.
 
-You can try it at http://musical-words.herokuapps.com
+You can try it at http://musical-words.herokuapp.com
